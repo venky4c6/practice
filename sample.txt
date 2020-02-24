@@ -2,6 +2,3 @@ venky
 vadloori
 heloo
 who
-are you
-man
-remote to local fetch
